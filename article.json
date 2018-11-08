@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id" : 1,
+            "name": "Musique 1",
+            "price": 29,
+            "img": "img/vans_check.jpg"
+        },
+        {
+            "id" : 2,
+            "name": "Musique 2",
+            "price": 35,
+            "img": "img/vans_chukka.jpg"
+        },
+        {
+            "id" : 3,
+            "name": "Musique 3",
+            "price": 69,
+            "img": "img/vans_dipped.jpg"
+        }
+    ]
+}
